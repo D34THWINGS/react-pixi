@@ -11,6 +11,6 @@
     "react-reconciler": "^0.20.4"
   },
   "devDependencies": {
-    "react": "^16.8.6"
+    "react": "^16.12.0"
   }
 }
