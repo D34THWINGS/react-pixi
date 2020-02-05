@@ -1,0 +1,16 @@
+{
+  "name": "react-pixi",
+  "version": "1.0.0",
+  "description": "PIXI.JS bindings for React",
+  "main": "./src/index.js",
+  "repository": "https://github.com/D34THWINGS/react-pixi",
+  "author": "D34THWINGS",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "^4.8.7",
+    "react-reconciler": "^0.20.4"
+  },
+  "devDependencies": {
+    "react": "^16.8.6"
+  }
+}
