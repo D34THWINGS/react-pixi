@@ -7,7 +7,7 @@
   "author": "D34THWINGS",
   "license": "MIT",
   "dependencies": {
-    "pixi.js": "^5.2.1",
+    "pixi.js": "^5.3.0",
     "react-reconciler": "^0.24.0"
   },
   "devDependencies": {
